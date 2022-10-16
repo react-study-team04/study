@@ -23,6 +23,9 @@
 ### 1회차
 
 [1. Hello World](https://ko.reactjs.org/docs/hello-world.html)
+[2. JSX 소개](https://ko.reactjs.org/docs/introducing-jsx.html)
+[3. 엘리먼트 렌더링](https://ko.reactjs.org/docs/rendering-elements.html)
+[4. Component와 Props](https://www.notion.so/21e245bc0abb4c69bff4b5dec3218758)
 
 현수 - [블로그 포스팅](https://fe-hyunsu.github.io/react-study-01)
 
@@ -32,12 +35,6 @@
 
 근영 -
 
-[2. JSX 소개](https://ko.reactjs.org/docs/introducing-jsx.html)
-
-[3. 엘리먼트 렌더링](https://ko.reactjs.org/docs/rendering-elements.html)
-
-[4. Component와 Props](https://www.notion.so/21e245bc0abb4c69bff4b5dec3218758)
-
 ### 2회차
 
 - [5. State와 생명주기](https://ko.reactjs.org/docs/state-and-lifecycle.html)
@@ -45,12 +42,28 @@
 - [7. 조건부 렌더링](https://ko.reactjs.org/docs/conditional-rendering.html)
 - [8. 리스트와 Key](https://ko.reactjs.org/docs/lists-and-keys.html)
 
+현수 -
+
+지환 - 
+
+소현 - 
+
+근영 -
+
 ### 3회차
 
 - [9. 폼](https://ko.reactjs.org/docs/forms.html)
 - [10. State 끌어올리기](https://ko.reactjs.org/docs/lifting-state-up.html)
 - [11. 합성 vs 상속](https://ko.reactjs.org/docs/composition-vs-inheritance.html)
 - [12. React로 생각하기](https://ko.reactjs.org/docs/thinking-in-react.html)
+
+현수 -
+
+지환 - 
+
+소현 - 
+
+근영 -
 
 ## 고급
 
@@ -63,6 +76,14 @@
 - [Ref 전달하기](https://ko.reactjs.org/docs/forwarding-refs.html)
 - [Fragment](https://ko.reactjs.org/docs/fragments.html)
 
+현수 -
+
+지환 - 
+
+소현 - 
+
+근영 -
+
 ### 5회차
 
 - [고차 컴포넌트](https://ko.reactjs.org/docs/higher-order-components.html)
@@ -72,6 +93,14 @@
 - [Portal](https://ko.reactjs.org/docs/portals.html)
 - [Profiler](https://ko.reactjs.org/docs/profiler.html)
 
+현수 -
+
+지환 - 
+
+소현 - 
+
+근영 -
+
 ### 6회차
 
 - [ES6 없이 사용하는 React](https://ko.reactjs.org/docs/react-without-es6.html)
@@ -79,6 +108,14 @@
 - [재조정 (Reconciliation)](https://ko.reactjs.org/docs/reconciliation.html)
 - [Ref와 DOM](https://ko.reactjs.org/docs/refs-and-the-dom.html)
 - [Render Props](https://ko.reactjs.org/docs/render-props.html)
+
+현수 -
+
+지환 - 
+
+소현 - 
+
+근영 -
 
 # 면접 준비 노션
 
