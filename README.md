@@ -1,6 +1,7 @@
 # 우주최강 리엑트 스터디 🚀
 
 ## 스터디원
+
 - [윤지환](https://github.com/consolekakao)
 - [유소현](https://github.com/ppotatoG)
 - [이근영](https://github.com/Keunyeong)
@@ -21,6 +22,8 @@
 [react-study-team04](https://github.com/react-study-team04)
 
 4. 개인 블로그 정리는 별도
+
+5. 매주 일요일 모임시 회비 ( 5,000원 )
 
 ## 스터디 일정
 
