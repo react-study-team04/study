@@ -1,4 +1,4 @@
-# Step04
+# Step05
 
 ## [고차 컴포넌트](https://ko.reactjs.org/docs/higher-order-components.html)
 ## [다른 라이브러리와 통합하기](https://ko.reactjs.org/docs/integrating-with-other-libraries.html)
