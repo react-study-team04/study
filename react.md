@@ -22,7 +22,7 @@
 
 ### 1회차
 
-[[1. Hello World](https://ko.reactjs.org/docs/hello-world.html)](https://www.notion.so/1-Hello-World-80ef22bdbc00440fa92d51d3275207e9)
+[1. Hello World](https://ko.reactjs.org/docs/hello-world.html)
 
 현수 - [블로그 포스팅](https://fe-hyunsu.github.io/react-study-01)
 
@@ -32,11 +32,11 @@
 
 근영 -
 
-[[2. JSX 소개](https://ko.reactjs.org/docs/introducing-jsx.html)](https://www.notion.so/2-JSX-4bf09498508f450780f8889da345e244)
+[2. JSX 소개](https://ko.reactjs.org/docs/introducing-jsx.html)
 
-[[3. 엘리먼트 렌더링](https://ko.reactjs.org/docs/rendering-elements.html)](https://www.notion.so/3-fe0799c4a75f46c28087c8aec2482e11)
+[3. 엘리먼트 렌더링](https://ko.reactjs.org/docs/rendering-elements.html)
 
-[**[4. Component와 Props](https://www.notion.so/21e245bc0abb4c69bff4b5dec3218758)**](https://www.notion.so/4-Component-Props-ad8e3be2c3b94cd3b2712e59fb61fed4)
+[4. Component와 Props](https://www.notion.so/21e245bc0abb4c69bff4b5dec3218758)
 
 ### 2회차
 
