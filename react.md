@@ -22,10 +22,10 @@
 
 ### 1회차
 
-[1. Hello World](https://ko.reactjs.org/docs/hello-world.html)
-[2. JSX 소개](https://ko.reactjs.org/docs/introducing-jsx.html)
-[3. 엘리먼트 렌더링](https://ko.reactjs.org/docs/rendering-elements.html)
-[4. Component와 Props](https://www.notion.so/21e245bc0abb4c69bff4b5dec3218758)
+- [1. Hello World](https://ko.reactjs.org/docs/hello-world.html)
+- [2. JSX 소개](https://ko.reactjs.org/docs/introducing-jsx.html)
+- [3. 엘리먼트 렌더링](https://ko.reactjs.org/docs/rendering-elements.html)
+- [4. Component와 Props](https://www.notion.so/21e245bc0abb4c69bff4b5dec3218758)
 
 현수 - [블로그 포스팅](https://fe-hyunsu.github.io/react-study-01)
 
