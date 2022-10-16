@@ -2,19 +2,19 @@
 
 # 규칙
 
-1) 리엑트 공식 문서 리딩
+1. 리엑트 공식 문서 리딩
 
 [시작하기 - React](https://ko.reactjs.org/docs/getting-started.html)
 
-2) 수요일, 일요일 ( 온_discord , 오프_강남 & 사당 )
+2. 수요일, 일요일 ( 온*discord , 오프*강남 & 사당 )
 
 [Join the 우주최강 리엑트개발자 Discord Server!](https://discord.gg/dRQU8Kwr)
 
-3) git organization 에 정리
+3. git organization 에 정리
 
 [react-study-team04](https://github.com/react-study-team04)
 
-4) 개인 블로그 정리는 별도
+4. 개인 블로그 정리는 별도
 
 # 스터디 일정
 
@@ -29,9 +29,9 @@
 
 현수 - [블로그 포스팅](https://fe-hyunsu.github.io/react-study-01)
 
-지환 - 
+지환 - [블로그 포스팅](https://consolekakao.github.io/%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%B6%80%EC%88%98%EA%B8%B0)
 
-소현 - 
+소현 -
 
 근영 -
 
@@ -44,9 +44,9 @@
 
 현수 -
 
-지환 - 
+지환 -
 
-소현 - 
+소현 -
 
 근영 -
 
@@ -59,9 +59,9 @@
 
 현수 -
 
-지환 - 
+지환 -
 
-소현 - 
+소현 -
 
 근영 -
 
@@ -78,9 +78,9 @@
 
 현수 -
 
-지환 - 
+지환 -
 
-소현 - 
+소현 -
 
 근영 -
 
@@ -95,9 +95,9 @@
 
 현수 -
 
-지환 - 
+지환 -
 
-소현 - 
+소현 -
 
 근영 -
 
@@ -111,9 +111,9 @@
 
 현수 -
 
-지환 - 
+지환 -
 
-소현 - 
+소현 -
 
 근영 -
 
