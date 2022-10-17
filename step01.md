@@ -12,6 +12,6 @@
 
 소현 -
 
-현수 - [https://fe-hyunsu.github.io/react-study-01](https://fe-hyunsu.github.io/react-study-01)
+현수 - [1.Hello World, 2.JSX 소개](https://fe-hyunsu.github.io/react-study-01), [3.엘리먼트 렌더링, 4.Component와 Props](https://fe-hyunsu.github.io/react-study-02)
 
 근영 - 
