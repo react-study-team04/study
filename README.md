@@ -5,6 +5,7 @@
 - [유소현](https://github.com/ppotatoG)
 - [이근영](https://github.com/Keunyeong)
 - [김현수](https://github.com/FE-HyunSu)
+- [유아영](https://github.com/ahyoung21)
 
 ## 규칙
 
