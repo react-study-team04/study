@@ -35,6 +35,8 @@
 
 근영 -
 
+아영 - [노션 포스팅](https://lime-textbook-f24.notion.site/1-9699e38e929b4a32a42fc323f8e4da2c)
+
 ### 2회차
 
 - [5. State와 생명주기](https://ko.reactjs.org/docs/state-and-lifecycle.html)
@@ -50,6 +52,8 @@
 
 근영 -
 
+아영 -
+
 ### 3회차
 
 - [9. 폼](https://ko.reactjs.org/docs/forms.html)
@@ -64,6 +68,8 @@
 소현 -
 
 근영 -
+
+아영 -
 
 ## 고급
 
@@ -84,6 +90,8 @@
 
 근영 -
 
+아영 -
+
 ### 5회차
 
 - [고차 컴포넌트](https://ko.reactjs.org/docs/higher-order-components.html)
@@ -101,6 +109,8 @@
 
 근영 -
 
+아영 -
+
 ### 6회차
 
 - [ES6 없이 사용하는 React](https://ko.reactjs.org/docs/react-without-es6.html)
@@ -116,6 +126,8 @@
 소현 -
 
 근영 -
+
+아영 -
 
 # 면접 준비 노션
 
