@@ -12,6 +12,6 @@
 
 소현 -
 
-현수 - 
+현수 - [React-Documents-Step02](https://fe-hyunsu.github.io/react-study-03)
 
 근영 - 
