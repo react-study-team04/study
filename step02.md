@@ -15,3 +15,5 @@
 현수 - [React-Documents-Step02](https://fe-hyunsu.github.io/react-study-03)
 
 근영 - 
+
+아영 - [React-Documents-Step02](https://lime-textbook-f24.notion.site/2-2406e692ef6347918ab253ae262e84f7)
