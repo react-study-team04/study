@@ -13,6 +13,6 @@
 
 소현 -
 
-현수 - 
+현수 - https://fe-hyunsu.github.io/react-study-06
 
 근영 - 
