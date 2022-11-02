@@ -1,31 +1,32 @@
-# 우주최강 리엑트 스터디 🚀
+# 🚀 우주최강 리엑트 스터디 🚀
 
-## 스터디원
+## 👨‍👨‍👦👩‍👧 스터디원
 - [윤지환](https://github.com/consolekakao)
 - [유소현](https://github.com/ppotatoG)
 - [이근영](https://github.com/Keunyeong)
 - [김현수](https://github.com/FE-HyunSu)
 - [유아영](https://github.com/ahyoung21)
 
-## 규칙
+## 📰 규칙
 
 1. 리엑트 공식 문서 리딩
 
-[시작하기 - React](https://ko.reactjs.org/docs/getting-started.html)
+- [시작하기 - React](https://ko.reactjs.org/docs/getting-started.html)
 
 2. 수요일, 일요일 ( 온_discord , 오프_강남 & 사당 )
 
-[Join the 우주최강 리엑트개발자 Discord Server!](https://discord.gg/dRQU8Kwr)
+- [Join the 우주최강 리엑트개발자 Discord Server!](https://discord.gg/dRQU8Kwr)
 
 3. git organization 에 정리
 
-[react-study-team04](https://github.com/react-study-team04)
+- [react-study-team04](https://github.com/react-study-team04)
 
-4. 개인 블로그 정리는 별도
+4. 스터디룸 모임 정산
+- [https://illustrious-arithmetic-f0422e.netlify.app](https://illustrious-arithmetic-f0422e.netlify.app)
 
-## 스터디 일정
+## 🪗 스터디 일정
 
-### 개념
+### 🎳 개념
 
 #### [1회차](https://github.com/react-study-team04/study/blob/main/step01.md)
 
@@ -48,7 +49,7 @@
 - [11. 합성 vs 상속](https://ko.reactjs.org/docs/composition-vs-inheritance.html)
 - [12. React로 생각하기](https://ko.reactjs.org/docs/thinking-in-react.html)
 
-### 고급
+### 🚁 고급
 
 #### [4회차](https://github.com/react-study-team04/study/blob/main/step04.md)
 - [접근성](https://ko.reactjs.org/docs/accessibility.html)
