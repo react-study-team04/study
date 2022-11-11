@@ -22,7 +22,7 @@
 - [react-study-team04](https://github.com/react-study-team04)
 
 4. 스터디룸 모임 정산
-- [https://illustrious-arithmetic-f0422e.netlify.app](https://illustrious-arithmetic-f0422e.netlify.app)
+- [https://tubular-cocada-39cf07.netlify.app](https://tubular-cocada-39cf07.netlify.app)
 
 ## 🪗 스터디 일정
 
